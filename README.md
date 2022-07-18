@@ -12,5 +12,7 @@ for list of commands -->
 A fork of original script
 # Setup
 How to use?:
+* Download The Code and upload to repl.it
 * Config Server ID & Channel ID in `Config.json` file
 * Start bot with `Token` env
+* GG you got a miner 
