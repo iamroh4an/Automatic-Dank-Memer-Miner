@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_python3_Auto-DankMemer"
+version = "0.1.0"
+description = ""
+authors = ["Rohaan1947 <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+colorama = "^0.4.5"
+discord = "^1.7.3"
+Flask = "^2.1.2"
+waitress = "^2.1.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
