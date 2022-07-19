@@ -10,6 +10,9 @@ type !helpdank
 for list of commands -->
 # Auto Dank
 A fork of original script
+
+# How to deal with errors
+if you're getting errors contact me on discord: Rohaan#3004
 # Setup
 How to use?:
 * Download The Code and upload to repl.it
